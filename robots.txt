@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://guilffer.github.com/gitblog-cpbr6/sitemap.xml 
